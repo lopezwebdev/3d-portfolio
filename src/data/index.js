@@ -25,19 +25,19 @@ export const navLinks = [
 
 const experiences = [
   {
-    title: "YouTube Content Creator",
+    title: "Full Stack Developer",
     company_name: "Self Employed",
-    date: "2016 - Present",
+    date: "2024 - Present",
     details: [
-      "Built a subscriber base of over <span style='color: white;'>500,000 subscribers</span> by creating video content to help programmers.",
-      "Crafted visually appealling programming videos that have garnered over <span style='color: white;'>30,000,000 views</span>.",
-      "Produced high-quality educational and entertaining videos for clients including <span style='color: white;'>Intel, JetBrains, and MicroCenter</span>.",
+      "Developed and delivered custom interdisciplinary coding portfolio for clients including <span style='color: white;'>Nvidia, Hostinger, and Amazon</span>.",
+      "<span style='color: white;'>Designed and developed innovative</span> AI applications and interactive websites.",
+      "<span style='color: white;'>Managed full project lifecycle</span> from concept to deployment in successful and timely project completions.",
     ],
   },
   {
     title: "Software Developer",
     company_name: "Indie",
-    date: "2019 - 2023",
+    date: "2024 - Present",
     details: [
       "Developed and delivered custom interdisciplinary coding portfolio for clients including <span style='color: white;'>Nvidia, Hostinger, and Amazon</span>.",
       "<span style='color: white;'>Designed and developed innovative</span> AI applications and interactive websites.",
