@@ -67,7 +67,7 @@ const portfolio = [
     name: "Dev Notes",
     description:
       "A newsletter with over 6,000 readers made for software developers to keep up with this rapidly evolving industry, with a sister platform in progress.",
-    image: devnotes,
+    image: devnotes1,
   },
   {
     name: "Visually Understanding Algorithms",
