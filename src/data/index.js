@@ -1,6 +1,6 @@
 import {
   algorithms,
-  devnotes,
+  devnotes2,
   oscs,
 } from "../assets";
 
