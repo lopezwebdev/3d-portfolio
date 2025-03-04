@@ -2,9 +2,6 @@
 
 ![3D Parallax Developer Portfolio Thumbnail](https://i.ibb.co/86NQD5c/thumbnail-3d-portfolio-smaller.jpg)
 
-## Introduction
-This is a code repository for my 3D portfolio website showcased in this video - https://youtu.be/f_ZxgQQ74Lc.
-
 I built myself a 3D developer portfolio website to replace my minimal portfolio and compliment my GitHub profile page and terminal website. 
 
 ## Technologies
