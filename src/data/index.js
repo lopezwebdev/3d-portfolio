@@ -35,23 +35,23 @@ const experiences = [
     ],
   },
   {
-    title: "Front-Developer",
-    company_name: "Le Wagon Coding Boot Camp",
+    title: "Front-End Developer",
+    company_name: "Inverly",
     date: "11/2024 - 12/2024",
     details: [
       "Developed and delivered a custom application for an <span style='color: white;'>Investment App named Inverly</span> as a front-end developer.",
       "<span style='color: white;'>Designed and developed engaging</span> front-end applications on website.",
-      "<span style='color: white;'>Managed the front-end design</span> along with another team member, overseeing the full project lifecycle from concept to deployment, ensuring successful and timely project completion.",
+      "<span style='color: white;'>Managed the front-end design</span> along with another team member, overseeing the full project lifecycle from concept to deployment, ensuring a successful and timely project completion.",
     ],
   },
   {
-    title: "Software Engineer",
-    company_name: "Prime 3",
-    date: "2018 - 2019",
+    title: "Front-End Developer",
+    company_name: "PawPals",
+    date: "11/2024 - 11/2024",
     details: [
-      "Built custom enterprise applications for a <span style='color: white;'>Fortune 500 company</span> as a full-stack software engineer.",
-      "Developed and maintained <span style='color: white;'>scalable backend services</span>, ensuring high availability for critical business applications.",
-      "<span style='color: white;'>Collaborated with a team</span> to design and implement front-end interfaces.",
+      "Developed a <span style='color: white;'>Pet Sitting App</span> as a front-end developer.",
+      "Developed and maintained <span style='color: white;'>the front-end scalable services</span>, ensuring high availability for users.",
+      "<span style='color: white;'>Collaborated with the team</span> to design and implement front-end interfaces.",
     ],
   },
   {
