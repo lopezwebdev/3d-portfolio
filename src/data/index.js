@@ -54,16 +54,6 @@ const experiences = [
       "<span style='color: white;'>Collaborated with the team</span> to design and implement front-end interfaces.",
     ],
   },
-  {
-    title: "Computer Science",
-    company_name: "ODU",
-    date: "2015 - 2018",
-    details: [
-      "Built a <span style='color: white;'>computer science foundation</span> learning theory, computer architecture, and software engineering.",
-      "Worked and interned at <span style='color: white;'>NASA and Norfolk Southern Railway</span> to gain practical experience in the field of data analysis.",
-      "Acted as a member of the <span style='color: white;'>Association for Computing Machinery</span> (ACM).",
-    ],
-  },
 ];
 
 const portfolio = [
