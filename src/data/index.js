@@ -35,13 +35,13 @@ const experiences = [
     ],
   },
   {
-    title: "Software Developer",
-    company_name: "Indie",
-    date: "2024 - Present",
+    title: "Front-Developer",
+    company_name: "Le Wagon Coding Boot Camp",
+    date: "11/2024 - 12/2024",
     details: [
-      "Developed and delivered custom interdisciplinary coding portfolio for clients including <span style='color: white;'>Nvidia, Hostinger, and Amazon</span>.",
-      "<span style='color: white;'>Designed and developed innovative</span> AI applications and interactive websites.",
-      "<span style='color: white;'>Managed full project lifecycle</span> from concept to deployment in successful and timely project completions.",
+      "Developed and delivered a custom application for an <span style='color: white;'>Investment App named Inverly</span> as a front-end developer.",
+      "<span style='color: white;'>Designed and developed engaging</span> front-end applications on website.",
+      "<span style='color: white;'>Managed the front-end design</span> along with another team member, overseeing the full project lifecycle from concept to deployment, ensuring successful and timely project completion.",
     ],
   },
   {
