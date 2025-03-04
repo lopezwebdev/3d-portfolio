@@ -58,9 +58,9 @@ const experiences = [
 
 const portfolio = [
   {
-    name: "Open Source Computer Science Repo",
+    name: "Open Source AI, blockchain and Full-Stack Development Technologies.",
     description:
-      "A GitHub repo with over 17,000 stars containing a curated list of free online courses from reputable universities that satisfy undergraduate computer science requirements.",
+      "A GitHub repo where I share a curated list of free resources for learning about AI, blockchain, and full-stack web development.",
     image: oscs,
   },
   {
