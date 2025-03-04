@@ -60,7 +60,7 @@ const portfolio = [
   {
     name: "Open Source AI, blockchain and Full-Stack Development Technologies.",
     description:
-      "A GitHub repo where I share a curated list of free resources for learning about AI, blockchain, and full-stack web development.",
+      "My GitHub repo where I share a curated list of free resources for learning about AI, blockchain, and full-stack web development.",
     image: oscs,
   },
   {
