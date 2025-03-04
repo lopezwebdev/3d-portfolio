@@ -25,13 +25,13 @@ export const navLinks = [
 
 const experiences = [
   {
-    title: "Full Stack Developer",
-    company_name: "Self Employed",
-    date: "2024 - Present",
+    title: "Back-End Developer",
+    company_name: "Melting Hack AI Agent 1-Day Hackathon",
+    date: "02/2025 - 02/2025",
     details: [
-      "Developed and delivered custom interdisciplinary coding portfolio for clients including <span style='color: white;'>Nvidia, Hostinger, and Amazon</span>.",
-      "<span style='color: white;'>Designed and developed innovative</span> AI applications and interactive websites.",
-      "<span style='color: white;'>Managed full project lifecycle</span> from concept to deployment in successful and timely project completions.",
+      "Over the course of just 4 hours our team of three built and deployed an <span style='color: white;'>AI-powered chatbot</span>.",
+      "<span style='color: white;'>Using Javascript, React, Tailwind and OpenAI</span>.",
+      "<span style='color: white;'>I was one of the two backend developers</span> collaborating with an industry professional of 6 years of experience, from concept to deployment, ensuring a successful and timely project completion.",
     ],
   },
   {
