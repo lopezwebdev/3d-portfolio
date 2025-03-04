@@ -2,7 +2,7 @@
 
 ![3D Parallax Developer Portfolio Thumbnail](https://i.ibb.co/86NQD5c/thumbnail-3d-portfolio-smaller.jpg)
 
-I built myself a 3D developer portfolio website to replace my minimal portfolio and compliment my GitHub profile page and terminal website. 
+I built a 3D developer portfolio website to replace my minimal portfolio and compliment my GitHub profile page and terminal website. 
 
 ## Technologies
 - Vite - Build tool for the boilerplate and structure
