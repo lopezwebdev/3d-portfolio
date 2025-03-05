@@ -25,7 +25,7 @@ export const navLinks = [
 
 const experiences = [
   {
-    title: "Back-End Developer",
+    title: "Full-Stack Developer",
     company_name: "Melting Hack AI Agent 1-Day Hackathon",
     date: "02/2025 - 02/2025",
     details: [
